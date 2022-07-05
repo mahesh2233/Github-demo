@@ -9,6 +9,8 @@ public class Test1 {
     	System.out.println("Go and eat something");
     	else
     		System.out.println("Do practice....");
+System.out.println("Done practice by khajaaa....");
+
     }
 	}
 
